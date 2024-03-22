@@ -1,13 +1,10 @@
-The project analyzes the sales data of a firm . it followed certain steps:
-1.cleaing data
-2.explortory data Analysis
-  a.count of male and female customers
-  b.amount spent by male and female customers
-  c.age group of cistomers by gender
-  d.amoount spent by age group
-  e.orders  grouped by state
-  f.amount  grouped by state
-  g. count of customer by gender and maritial status
-  h.orders grouped by occupation
-  i.amount grouped by occupation 
-
+![output_22_0](https://github.com/P-SARTHI/python-data-exploratory-analysis-of-sales/assets/152152967/016e7dac-2c05-40df-b490-6ac972881677)
+![output_21_1](https://github.com/P-SARTHI/python-data-exploratory-analysis-of-sales/assets/152152967/8e85d02f-33fd-45b0-b118-a22b522d15a7)
+![output_20_0](https://github.com/P-SARTHI/python-data-exploratory-analysis-of-sales/assets/152152967/d3018119-2260-483d-92fb-e6acc4c37708)
+![output_19_0](https://github.com/P-SARTHI/python-data-exploratory-analysis-of-sales/assets/152152967/ab120413-0178-4037-98d8-fd097408b0d9)
+![output_18_1](https://github.com/P-SARTHI/python-data-exploratory-analysis-of-sales/assets/152152967/d6542dd1-a6fa-401c-9baf-21ff83836f05)
+![output_17_1](https://github.com/P-SARTHI/python-data-exploratory-analysis-of-sales/assets/152152967/d634833a-6d70-4b80-bc53-abe17887f8e0)
+![output_16_1](https://github.com/P-SARTHI/python-data-exploratory-analysis-of-sales/assets/152152967/14a7fb9c-93bf-49e1-af3d-5ab70d1add61)
+![output_15_0](https://github.com/P-SARTHI/python-data-exploratory-analysis-of-sales/assets/152152967/b43b6460-1d31-4176-8ac9-c0a2f7ee4468)
+![output_14_1](https://github.com/P-SARTHI/python-data-exploratory-analysis-of-sales/assets/152152967/6063b8aa-9bca-47d0-afa5-f30c836aefb3)
+![output_13_0](https://github.com/P-SARTHI/python-data-exploratory-analysis-of-sales/assets/152152967/6b2cdb25-31c7-4f5d-a605-de890b1a438d)
